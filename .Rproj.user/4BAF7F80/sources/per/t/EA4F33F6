@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1621235291514.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1988845909",
+    "id" : "EA4F33F6",
+    "lastKnownWriteTime" : 1621236238,
+    "last_content_update" : 1621236238508,
+    "path" : "C:/Users/xiawenjun/Desktop/dd/splitLadle/R/ladle.R",
+    "project_path" : "R/ladle.R",
+    "properties" : {
+        "cursorPosition" : "137,10",
+        "scrollLine" : "127",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
