@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1621243062779.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1134910221",
+    "id" : "890D355A",
+    "lastKnownWriteTime" : 1621243137,
+    "last_content_update" : 1621243137604,
+    "path" : "C:/Users/xiawenjun/Desktop/项目/split submit code/splitLadle/R/TDRR.R",
+    "project_path" : "R/TDRR.R",
+    "properties" : {
+        "cursorPosition" : "13,10",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -2,10 +2,9 @@ Package: splitLadle
 Type: Package
 Title: A split method to deal with order determination
 Version: 0.1.0
-Author: Who wrote it
+Author: xiawenjun
 Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Description: splitLadle method, original bootstrap ladle method, RRE, RE, BIC method, TDRR method are all contained.
 Imports: MASS, dr, mnormt, mixAK, LassoSIR, elasticnet, stats
 License: GPL-3
 Encoding: UTF-8

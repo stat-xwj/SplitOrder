@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1621242931201.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "101673869",
+    "id" : "4445A734",
+    "lastKnownWriteTime" : 1621243054,
+    "last_content_update" : 1621243054271,
+    "path" : "C:/Users/xiawenjun/Desktop/项目/split submit code/splitLadle/R/RRE_RE_BIC.R",
+    "project_path" : "R/RRE_RE_BIC.R",
+    "properties" : {
+        "cursorPosition" : "3,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
