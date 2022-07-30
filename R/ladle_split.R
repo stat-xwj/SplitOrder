@@ -226,10 +226,4 @@ ladle_split<-function(x=x,y=y,nslices=nslices,nsplit=nsplit,
 
 
   return(res)
-  # SSRE:k=1,...,p-1  因为lambda_0没有定义，所以把第一项去掉
-  # SSLE and SSAE: k=0,...,p-1  因为R语言的下标从1开始，因此最后结果要减一
-
-  # 这里gn是从0开始的
-  # Rn 也是从0开始
-  # lam从1开始 作图的时候注意
 }
