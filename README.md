@@ -1,5 +1,5 @@
 # SplitOrder
-The code in the paper "Order Dertermiantion via Sample Splitting"
+The code in the paper "Order Determination via Sample Splitting"
 
 
 
